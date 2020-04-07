@@ -3,7 +3,7 @@
  */
 package cn.edu.nuc.nz.demos;
 
-import java.util.jar.Attributes.Name;
+
 
 /**
  * final关键字的使用:
@@ -54,7 +54,7 @@ public class Demo03 {
 		//八.The final local variable num cannot be assigned. It must be blank and not using a compound assignment（针对下面的语句）
 		//九.局部变量num不能被赋值。它必须是空的不能复合赋值
 		//七.num = 120;
-	
+		B b = new B();
 		
 		
 	}
